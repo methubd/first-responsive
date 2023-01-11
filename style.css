@@ -275,7 +275,6 @@ nav a:hover {
         flex-direction: column-reverse;
         position: relative;
         right: 3vh;
-        top: -10vh;
     }
 
     .login-left-side {
