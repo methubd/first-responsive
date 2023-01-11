@@ -1,3 +1,7 @@
+*{
+    font-family: 'Lobster',
+}
+
 :root{
     --primary-color:rgb(253, 65, 65);
     --primary-bg-color:antiquewhite;
