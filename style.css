@@ -48,7 +48,9 @@ nav a:hover {
     padding-top: 10vh;
     padding-bottom: 10vh;
 }
-
+.banner-con .banner-title a{
+    text-decoration: none;
+}
 .banner-con .banner-title .title {
     font-size: 2.5em;
 }
@@ -298,4 +300,7 @@ nav a:hover {
 .logout-page{
     text-align: center;
     margin-top: 20vh;
+}
+.logout-page a{
+    text-decoration: none;
 }
