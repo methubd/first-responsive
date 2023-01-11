@@ -48,9 +48,11 @@ nav a:hover {
     padding-top: 10vh;
     padding-bottom: 10vh;
 }
-.banner-con .banner-title a{
+
+.banner-con .banner-title a {
     text-decoration: none;
 }
+
 .banner-con .banner-title .title {
     font-size: 2.5em;
 }
@@ -294,13 +296,31 @@ nav a:hover {
     .login-left-side {
         visibility: hidden;
     }
+
+    .login-container {
+        position: relative;
+        left: 3vh;
+        top: 5vh;
+        height: 80vh;
+        width: 50vh;
+        background-image: url(./image/login-bg.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-blend-mode: multiply;
+        background-color: rgb(214, 214, 214);
+        border-radius: 20px;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 5vh;
+    }
 }
 
 /* Logout Page */
-.logout-page{
+.logout-page {
     text-align: center;
     margin-top: 20vh;
 }
-.logout-page a{
+
+.logout-page a {
     text-decoration: none;
 }
