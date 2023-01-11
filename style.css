@@ -62,6 +62,7 @@ nav a:hover{
 .btn-primary:hover{
     background-color: rgb(26, 26, 26);
     color: white;
+    cursor: pointer;
 }
 
 /* Banner Responsive for Small Devices */
