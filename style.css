@@ -121,6 +121,16 @@ nav a:hover{
 .product-con .product img{
     width: 50%;
 }
+.product-con .product .special::before{
+    color: rgb(4, 107, 0);
+    content: "Authorized";
+    font-size: 12px;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    width: 20%;
+}
 
 /* Medium Device */
 @media screen and (max-width: 1700px) {
